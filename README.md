@@ -16,10 +16,12 @@ Por design o MangaQ não remove os arquivos originais após a criação dos arqu
 
 O menu principal contém 04 opções:
 
-IMG_01
+![Imagem do menu principal](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/IMG_01.png)
 
 ### Sobre MangaQ
 Algumas informações úteis sobre o MangaQ e seus recursos.
+
+![Gif opção sobre](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_00.gif)
 
 ### Criar único arquivo CBZ
 Crie um arquivo CBZ escolhendo uma única pasta contendo várias imagens, dê nome ao arquivo final.
