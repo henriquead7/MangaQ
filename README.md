@@ -1,2 +1,53 @@
 # MangaQ
 Script de compactação de pastas, com imagens, no formato digital de leitura aberto de mangás e HQ's CBZ.
+
+
+MangaQ é um shell script Linux que faz uso dos utilitários Zip, para compactação dos arquivos, e Zenity para interface gráfica.
+Originalmente este script era apenas de uso interno, afim de criar arquivos CBZ das minhas coleções de Mangás/HQ's digitalizadas em png/jpg, mas sem uma interface gráfica e com criação em lote somente.
+
+Atualmente o MangaQ possui uma interface interativa em Zenity bem simples, mas que torna a experiência rica, com opções de criação de um arquivo único ou em lotes.
+
+***
+
+## Funções do MangaQ
+O formato digital de leitura aberto CBZ, basicamente é um conjunto de imagens "encapsuladas"/compactados. No qual outros softwares fazem uso, como: Komikku, OpenComic, Evince, mComix e qualquer outro leitor de mangás e HQ's do mercado. Utilizar tal formato é uma ótima prática para conservar seus arquivos de leitura, além de ser um formato aberto o CBZ preserva as qualidades originais das imagens, podendo inclusive extrair as imagens posteriormente caso deseje.
+
+Por design o MangaQ não remove os arquivos originais após a criação dos arquivos CBZ. Essa escolha é totalmente proposital, assim se eventualmente algum erro ocorra no processo seus arquivos continuarão seguros.
+
+O menu principal contém 04 opções:
+
+IMG_01
+
+### Sobre MangaQ
+Algumas informações úteis sobre o MangaQ e seus recursos.
+
+### Criar único arquivo CBZ
+Crie um arquivo CBZ escolhendo uma única pasta contendo várias imagens, dê nome ao arquivo final.
+
+VID_01
+
+### Criar lote de arquivos CBZ
+Crie arquivos em lote, contudo desta vez escolha uma pasta "pai" contendo outras pastas "filho" cada uma com suas respectivas imagens. Essa opção é interessante caso tenha diversos capítulos e queira vários arquivos CBZ por capitulo. Os nomes dos arquivos finais serão os mesmos das pastas, para renomear em lote utilize um software de terceiros (todo gerenciador de arquivos moderno, por exemplo o Nautilus do GNOME, possui o recurso de renomear em lote).
+
+VID_02
+
+### Sair
+Você pode sair do MangaQ na opção "Sair" ou simplesmente fechando a janela.
+
+VID_03
+
+***
+
+## MangaQ em AppImage
+Para facilitar o uso do MangaQ empacotei o mesmo em AppImage, bastando dar as permissões de execução uma única vez e dando dois cliques sobre o mesmo. Fique ciente que ao utilizar o ManfaQ no formato shell script é preciso configurar o caminho onde os scripts se encontram, no AppImage nenhuma configuração deste tipo é necessária.
+
+VID_03
+
+## Considere apoiar o projeto OSistemático
+
+[Apoia.se](https://apoia.se/osistematico) |
+[Youtube](https://www.youtube.com/OSistematico) |
+[Site](http://www.osistematico.com.br/) |
+[Twitter](https://twitter.com/henriquead7)
+
+***Obrigado pela atenção e apoio de todos, SISTEMATICAMENTE!***
