@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MangaQ
+Comment=Crie arquivos de leitura digital CBZ
+Exec=AppRun
+Terminal=true
+Type=Application
+Icon=mangaq
+X-AppImage-Version=1.0
+MimeType=text/html;
+Categories=Utility;
