@@ -26,24 +26,24 @@ Algumas informações úteis sobre o MangaQ e seus recursos.
 ### Criar único arquivo CBZ
 Crie um arquivo CBZ escolhendo uma única pasta contendo várias imagens, dê nome ao arquivo final.
 
-VID_01
+![Gif opção criar único CBZ](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_01.gif)
 
 ### Criar lote de arquivos CBZ
 Crie arquivos em lote, contudo desta vez escolha uma pasta "pai" contendo outras pastas "filho" cada uma com suas respectivas imagens. Essa opção é interessante caso tenha diversos capítulos e queira vários arquivos CBZ por capitulo. Os nomes dos arquivos finais serão os mesmos das pastas, para renomear em lote utilize um software de terceiros (todo gerenciador de arquivos moderno, por exemplo o Nautilus do GNOME, possui o recurso de renomear em lote).
 
-VID_02
+![Gif opção criar lote CBZ](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_02.gif)
 
 ### Sair
 Você pode sair do MangaQ na opção "Sair" ou simplesmente fechando a janela.
 
-VID_03
+![Gif opção sair](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_03.gif)
 
 ***
 
 ## MangaQ em AppImage
 Para facilitar o uso do MangaQ empacotei o mesmo em AppImage, bastando dar as permissões de execução uma única vez e dando dois cliques sobre o mesmo. Fique ciente que ao utilizar o ManfaQ no formato shell script é preciso configurar o caminho onde os scripts se encontram, no AppImage nenhuma configuração deste tipo é necessária.
 
-VID_03
+![Gif como executar appimage](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_04.gif)
 
 ## Considere apoiar o projeto OSistemático
 
