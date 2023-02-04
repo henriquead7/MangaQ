@@ -41,7 +41,7 @@ Você pode sair do MangaQ na opção "Sair" ou simplesmente fechando a janela.
 ***
 
 ## MangaQ em AppImage
-Para facilitar o uso do MangaQ empacotei o mesmo em AppImage, bastando dar as permissões de execução uma única vez e dando dois cliques sobre o mesmo. Fique ciente que ao utilizar o ManfaQ no formato shell script é preciso configurar o caminho onde os scripts se encontram, no AppImage nenhuma configuração deste tipo é necessária.
+Para facilitar o uso do MangaQ empacotei o mesmo em AppImage, bastando dar as permissões de execução uma única vez e dando dois cliques sobre o mesmo. Fique ciente que ao utilizar o ManfaQ no formato shell script é preciso configurar o caminho onde os scripts se encontram, no AppImage nenhuma configuração deste tipo é necessária. É possível integrar o AppImage via **AppImageLauncher** (esteja ciente que por se tratar de um utilitário script baseado em Zenity terá um ícone genérico).
 
 ![Gif como executar appimage](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_04.gif)
 
