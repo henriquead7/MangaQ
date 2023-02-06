@@ -14,29 +14,24 @@ O formato digital de leitura aberto CBZ, basicamente é um conjunto de imagens "
 
 Por design o MangaQ não remove os arquivos originais após a criação dos arquivos CBZ. Essa escolha é totalmente proposital, assim se eventualmente algum erro ocorra no processo seus arquivos continuarão seguros.
 
-O menu principal contém 04 opções:
+O menu principal contém 03 opções:
 
 ![Imagem do menu principal](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/IMG_01.png)
 
-### Sobre MangaQ
+### Sobre MangaQ (print antiga)
 Algumas informações úteis sobre o MangaQ e seus recursos.
 
 ![Gif opção sobre](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_00.gif)
 
-### Criar único arquivo CBZ
+### Criar único arquivo CBZ (print antiga)
 Crie um arquivo CBZ escolhendo uma única pasta contendo várias imagens, dê nome ao arquivo final.
 
 ![Gif opção criar único CBZ](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_01.gif)
 
-### Criar lote de arquivos CBZ
+### Criar lote de arquivos CBZ (print antiga)
 Crie arquivos em lote, contudo desta vez escolha uma pasta "pai" contendo outras pastas "filho" cada uma com suas respectivas imagens. Essa opção é interessante caso tenha diversos capítulos e queira vários arquivos CBZ por capitulo. Os nomes dos arquivos finais serão os mesmos das pastas, para renomear em lote utilize um software de terceiros (todo gerenciador de arquivos moderno, por exemplo o Nautilus do GNOME, possui o recurso de renomear em lote).
 
 ![Gif opção criar lote CBZ](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_02.gif)
-
-### Sair
-Você pode sair do MangaQ na opção "Sair" ou simplesmente fechando a janela.
-
-![Gif opção sair](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_03.gif)
 
 ***
 
