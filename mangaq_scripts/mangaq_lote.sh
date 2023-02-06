@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 # autor: HenriqueAD <www.osistematico.com.br> <youtube.com/OSistematico>
 # descrição: Pequeno utilitário Zenity do MangaQ, que seleciona uma pasta contendo outras pastas com imagens e de forma recursiva compacta em vários arquivos em CBZ.
-# version: 1.0
+# version: 1.1
 # licença: MIT License
+
+#DIRETÓRIO DO SCRIPT MENU 
+CAMINHO_SCRIPTS="$HOME/MangaQ/"
 
 #MENSAGEM INICIAL
 zenity --info --text="MangaQ irá compactar suas pastas com imagens em vários arquivos CBZ"
@@ -12,8 +15,8 @@ pasta=$(zenity --file-selection --directory --title="Selecione a pasta com as im
 
 #VERIFICA SE A PASTA FOI SELECIONADA
 if [ -z "$pasta" ]; then
-  zenity --error --text="Pasta não selecionada. Encerrando MangaQ..."
-  exit 1
+  zenity --error --text="Pasta não selecionada. Reiniciando o MangaQ..."
+  source /$CAMINHO_SCRIPTS/mangaq_menu.sh
 fi
 
 #CONTA A QUANTIDADE DE ARQUIVOS NA PASTA E QUANTAS PASTAS
@@ -27,8 +30,8 @@ destino=$(zenity --file-selection --directory --title="Selecione o local de dest
 
 #VERIFICA SE O DESTINO FOI SELECIONADO
 if [ -z "$destino" ]; then
-  zenity --error --text="Destino não selecionado. Encerrando MangaQ..."
-  exit 1
+  zenity --error --text="Destino não selecionado. Reiniciando o MangaQ..."
+  source /$CAMINHO_SCRIPTS/mangaq_menu.sh 
 fi
 
 #COMPACTA DE FORMA RECURSIVA TODAS AS PASTAS DENTRO DA PASTA SELECIONADA

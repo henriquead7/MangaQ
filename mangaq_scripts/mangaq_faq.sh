@@ -7,9 +7,9 @@
 #EXIBE MENSAGEM FAQ
 zenity --info --title="SOBRE" --text="MangaQ é um utilitário que compacta suas imagens de mangás e HQ's no formato digital de leitura CBZ, em duas opções:
 
-'Criar único arquivo CBZ' --> que cria um arquivo CBZ de uma pasta sua com imagens;
+'Criar único arquivo CBZ' --> que cria um arquivo CBZ de uma pasta com imagens;
 
-'Criar lote de arquivos CBZ' --> que cria vários arquivos CBZ, com base em uma pasta sua com várias pastas de imagens;
+'Criar lote de arquivos CBZ' --> que cria vários arquivos CBZ, com base em uma pasta com várias pastas de imagens;
 
 Os arquivos originais ainda permanecem em seu sistema, é necessário a exclusão manual das pastas com as imagens. Este comportamento é esperado, para evitar eventuais erros num possível arquivo CBZ corrompido.
 
