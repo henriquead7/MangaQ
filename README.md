@@ -18,7 +18,7 @@ O menu principal contém 03 opções:
 
 ![Imagem do menu principal](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/IMG_01.png)
 
-### Sobre MangaQ
+### Sobre MangaQ (print antiga)
 Algumas informações úteis sobre o MangaQ e seus recursos.
 
 ![Gif opção sobre](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_00.gif)
