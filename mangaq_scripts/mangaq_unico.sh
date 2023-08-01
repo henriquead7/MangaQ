@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # autor: HenriqueAD <www.osistematico.com.br> <youtube.com/OSistematico>
 # descrição: Pequeno utilitário Zenity do MangaQ, que seleciona uma pasta contendo imagens e compacta num arquivo único em CBZ.
-# version: 1.1
+# version: 1.2
 # licença: MIT License
 
 #EXIBE MENSAGEM INICIAL
