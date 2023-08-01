@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # autor: HenriqueAD <www.osistematico.com.br> <youtube.com/OSistematico>
 # descrição: Pequeno FAQ via utilitário Zenity do MangaQ.
-# version: 1.0
+# version: 1.2
 # licença: MIT License
 
 #EXIBE MENSAGEM FAQ
