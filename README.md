@@ -40,7 +40,7 @@ Para facilitar o uso do MangaQ empacotei o mesmo em AppImage, bastando dar as pe
 
 ![Gif como executar appimage](https://github.com/henriquead7/MangaQ/blob/main/mangaq_imagens/VID_04.gif)
 
-[Baixe o MangaQ em AppImage!](https://github.com/henriquead7/MangaQ/releases/download/v1.0/MangaQ-x86_64.AppImage)
+[Baixe o MangaQ em AppImage!](https://github.com/henriquead7/MangaQ/releases/download/v1.1/MangaQ-x86_64_v1.1.AppImage)
 
 ***
 
