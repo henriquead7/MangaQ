@@ -2,7 +2,7 @@
 Name=MangaQ
 Comment=Crie arquivos de leitura digital CBZ
 Exec=AppRun
-Terminal=true
+Terminal=false
 Type=Application
 Icon=mangaq
 X-AppImage-Version=1.2
