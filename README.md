@@ -1,6 +1,7 @@
 # MangaQ
 Script de compactação de pastas, com imagens, no formato digital de leitura aberto de mangás e HQ's CBZ.
 
+![](https://github.com/henriquead7/MangaQ/blob/main/mangaq_appimage/AppDir/mangaq.png)
 
 **MangaQ** é um shell script Linux que faz uso dos utilitários **Zip**, para compactação dos arquivos, e **Zenity** para interface gráfica.
 Originalmente este script era apenas de uso interno, afim de criar arquivos CBZ das minhas coleções de Mangás/HQ's digitalizadas em png/jpg, mas sem uma interface gráfica e com criação em lote somente.
